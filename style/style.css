@@ -16,7 +16,7 @@
 
 
 body {
-    background: #070506 url('/img/main-bg.jpg') no-repeat right -400px top;
+    background: #070506 url('../img/main-bg.jpg') no-repeat right -400px top;
     background-attachment: fixed;
     background-size: cover;
     color: #ffffff;
@@ -110,7 +110,7 @@ body {
     width: 65px;
     height: 65px;
     border-radius: 50%;
-    background: #fff url('/img/Polygon 1.svg') center top 15px no-repeat;
+    background: #fff url('../img/Polygon 1.svg') center top 15px no-repeat;
     right: 0;
     top: 0;
 }
